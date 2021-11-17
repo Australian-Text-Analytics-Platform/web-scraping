@@ -1,0 +1,13 @@
+title:
+    - "Web Scraping"
+skills:
+    - web scraping
+tools:
+    - beautifulsoup4
+workflow:
+    - previous:
+        - [api notebook](https://github.com/Australian-Text-Analytics-Platform/open-australia-api)
+contributors:
+    - https://orcid.org/0000-0001-6147-120X
+datePublished:
+    - 2021-11-05
